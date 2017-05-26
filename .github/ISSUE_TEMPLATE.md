@@ -20,3 +20,24 @@ Segue meus perfis em redes sociais:
 
 - Twitter
 - Facebook
+
+## Quero dividir moradia
+
+[CIDADE][ESTADO][VALOR A SER DIVIDIDO][TEMPO DISPONÍVEL]
+
+UMA BREVE DESCRIÇÃO SOBRE VOCÊ COM SEUS GOSTOS PESSOAIS E INFORMAÇÕES SOBRE O QUE VOCÊ FAZ (TRABALHA COM PROGRAMAÇÃO, DESIGN, ETC).
+
+[LINKS PARA REDES SOCIAIS] <<< PARA ANALISE DA PESSOA QUE IRÁ DIVIDIR MORADIA CONTIGO.
+
+Ex.: 
+
+SÃO PAULO - SP, VALOR: 1.8000, 3 MESES
+
+Oi, eu sou o GitHubizeiro e estou dividindo meu apartamento em SP. Sou muito rígido quanto a organização e se deixar as coisas fora do lugar dentro de casa, vai rolar retaliação no Twitter!
+
+Eu sou programador Java e gosto muito de Padrões de Projetos.
+
+Segue meus perfis em redes sociais:
+
+- Twitter
+- Facebook
