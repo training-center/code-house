@@ -12,13 +12,13 @@ Uma casa onde o hobbie é escrever código, criar uma boa experiência de usuár
 
 Este projeto provê uma lista de pessoas que querem dividir moradia ou que buscam moradia compartilhada.
 
-## Por que compartilhar moradia?
+## Por que compartilhar minha casa?
 
 O aluguel e encargos de se morar só em cidades onde temos mais vagas de emprego como programadores(as) é bem alto, por isso existe essa necessidade de se compartilhar as contas para morar perto do trabalho ou mesmo para **conseguir** um emprego.
 
 Muitas pessoas já fazem isso e existem até sites especializados em compartilhamento de apartamento. Procure no Google: "Dividir apartamento em São Paulo". Você verá a quantidade de gente que já divide moradia.
 
-## Como tudo funciona por aqui
+## Como tudo funciona o projeto Code House
 
 Esse projeto é só um hub de locais compartilhados e você deve utilizar issues para compartilhar sua moradia ou para procurar um local para morar.
 
