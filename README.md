@@ -37,3 +37,14 @@ A própria abertura da issue possui um template a ser seguido para procura de mo
 Você deve pesquisar nas issues os perfis de pessoas que buscam moradia ou abrir uma issue com sua disponibilidade de compartilhamento.
 
 A própria abertura da issue possui um template a ser seguido para compartilhar a moradia.
+
+## Como surgiu esse projeto
+
+Esse projeto surgiu através de uma conversa no [Slack do Training Center](https://ctgroups.herokuapp.com/) onde diversas vezes as pessoas reclamam de não conseguir vagas onde moram e sobre valores abusivos de alugueis nos melhores locais para se morar para trabalhar em áreas criativas.
+
+Então o [Danilo Silva](https://twitter.com/danilodev) nos lembrou do compartilhamento de moradia e nos deu essa incrível ideia.
+
+----
+
+Esperamos te ajudar a conseguir um local para morar próximo ao seu trabalho. Boa sorte!
+
