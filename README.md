@@ -25,3 +25,10 @@ Esse projeto é só um hub de locais compartilhados e você deve utilizar issues
 Nós não nos responsabilizamos por problemas entre as partes envolvidas no compartilhamento da moradia, pois não temos poder para isso. Tudo relacionado ao compartilhamento da moradia deve ser acordado entre as partes envolvidas, como regras de conduta, valores, etc.
 
 Porém se você for caloteado(a) ou se alguém abusar de sua necessidade cobrando a mais do que o combinado para aluguel ou qualquer problema do tipo, você pode usar as labels das issues para dizer que aquele local ou aquela pessoa não são confiáveis.
+
+## Como conseguir um local para morar?
+
+Você deve pesquisar nas issues os locais que estão disponíveis ou abrir uma issue com o seu perfil.
+
+A própria abertura da issue possui um template a ser seguido para procura de moradia.
+
