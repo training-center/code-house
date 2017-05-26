@@ -53,6 +53,10 @@ Esse projeto surgiu através de uma conversa no [Slack do Training Center](https
 
 Então o [Danilo Silva](https://twitter.com/danilodev) nos lembrou do compartilhamento de moradia e nos deu essa incrível ideia.
 
+## Como contribuir com esse projeto?
+
+Essa ideia é um projeto Open Source e por isso você pode contribuir corrigindo erros, enviando sugestões de melhorias, fiscalizando as coisas nas issues e por ai vai! :)
+
 ----
 
 Esperamos te ajudar a conseguir um local para morar próximo ao seu trabalho. Boa sorte!
