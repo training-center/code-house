@@ -32,3 +32,8 @@ Você deve pesquisar nas issues os locais que estão disponíveis ou abrir uma i
 
 A própria abertura da issue possui um template a ser seguido para procura de moradia.
 
+## Como compartilhar minha moradia?
+
+Você deve pesquisar nas issues os perfis de pessoas que buscam moradia ou abrir uma issue com sua disponibilidade de compartilhamento.
+
+A própria abertura da issue possui um template a ser seguido para compartilhar a moradia.
