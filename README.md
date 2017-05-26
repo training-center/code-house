@@ -10,6 +10,7 @@
 - [Como conseguir um local para morar?](#como-conseguir-um-local-para-morar)
 - [Como compartilhar minha moradia?](#como-compartilhar-minha-moradia)
 - [Como surgiu esse projeto](#como-surgiu-esse-projeto)
+- [Como contribuir com esse projeto?](#como-contribuir-com-esse-projeto)
 
 ## O que é uma Code House
 
