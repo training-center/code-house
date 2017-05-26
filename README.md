@@ -2,6 +2,15 @@
 
 > Moradia compartilhada entre pessoas que atuam em desenvolvimento de software ou áreas criativas e relacionadas
 
+## Sumário
+
+- [O que é uma Code House](#o-que-é-uma-code-house)
+- [Por que compartilhar minha casa?](#por-que-compartilhar-minha-casa)
+- [Como tudo funciona o projeto Code House](#como-tudo-funciona-o-projeto-code-house)
+- [Como conseguir um local para morar?](#como-conseguir-um-local-para-morar)
+- [Como compartilhar minha moradia?](#como-compartilhar-minha-moradia)
+- [Como surgiu esse projeto](#como-surgiu-esse-projeto)
+
 ## O que é uma Code House
 
 Imagine morar em uma moradia compartilhada com amigos e amigas. Agora imagine morar em uma moradia compartilhada com amigos e amigas que atuam em alguma área de desenvolvimento de software ou design e áreas criativas que tem relação direta com nossa área!?
