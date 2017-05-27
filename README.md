@@ -11,6 +11,8 @@
   <li><a href="https://www.reddit.com/r/trainingcentr/" target="_blank" title="Participe do nosso forum no Reddit">Participe do nosso forum no Reddit</a></li>
 </ul>
 
+A única restrição nesse projeto (assim como em todos os outros do Training Center) é que você siga nosso [código de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
+
 ## Sumário
 
 - [O que é uma Code House](#o-que-é-uma-code-house)
