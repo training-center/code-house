@@ -48,6 +48,26 @@ Você deve pesquisar nas issues os perfis de pessoas que buscam moradia ou abrir
 
 A própria abertura da issue possui um template a ser seguido para compartilhar a moradia.
 
+## Dicas de convivência
+
+Morar junto com alguém pode não ser mil maravilhas, seja programador(a) ou não. Por isso temos algumas dicas para que tenham uma boa convivência e para que tudo de certo entre os envolvidos no compartilhamento da moradia:
+
+**Criem regras de organização**
+
+Nem todo mundo tem o mesmo pensamento quanto a organização pessoal, por isso criem algumas regras legais a se seguir como: tirar o lixinho do banheiro quando estiver cheio, manter a pia limpa, não botar fogo na casa sem fazer um push no Git, etc.
+
+**Tenha mente aberta**
+
+As pessoas não pensam iguais, por isso tenha mente aberta e aceite a opinião das pessoas quanto a política, religião, escolhas pessoais e principalmente entre Windows e Linux (não entre nessa discussão por nada).
+
+**Respeitem-se**
+
+O respeito é uma chave para boa convivência com qualquer ser humano e quase nem deveria estar nessa lista, porém é bom reforçarmos essa necessidade. Respeite ao próximo.
+
+**Não de uma de sabichão/sabichona**
+
+As pessoas que buscam moradia estão, em sua maioria, psicologicamente abaladas e precisando de local para ficar porque receberam propostas de emprego, porque não conseguem emprego onde moram ou qualquer outro motivo, não se aproveite disso. Se isso acontecer, você ficará mal visto publicamente, afinal esse projeto é público, não se esqueça disso. ;)
+
 ## Como surgiu esse projeto
 
 Esse projeto surgiu através de uma conversa no [Slack do Training Center](https://ctgroups.herokuapp.com/) onde diversas vezes as pessoas reclamam de não conseguir vagas onde moram e sobre valores abusivos de alugueis nos melhores locais para se morar para trabalhar em áreas criativas.
