@@ -6,6 +6,10 @@ Esse template é para ser seguido em caso de busca por local ou cadastramento de
 
 UMA BREVE DESCRIÇÃO SOBRE VOCÊ COM SEUS GOSTOS PESSOAIS E INFORMAÇÕES SOBRE O QUE VOCÊ FAZ (TRABALHA COM PROGRAMAÇÃO, DESIGN, ETC).
 
+[INFORMAÇÕES SOBRE O QUE PRECISO NO LOCAL] <<< INTERNET, ACEITA PET, TV, CAMA, ETC
+
+[RESTRIÇÕES] <<< NÃO CURTE/NÃO QUER TER PET, NÃO CURTE/NÃO ACEITA CIGARROS, ETC
+
 [LINKS PARA REDES SOCIAIS] <<< PARA ANALISE DA PESSOA QUE IRÁ DIVIDIR MORADIA CONTIGO.
 
 Ex.: 
@@ -15,6 +19,10 @@ SÃO PAULO - SP, VALOR: 1.500, INDETERMINADO
 Oi, eu sou o GitHubio e estou procurando apartamento em SP para morar perto do trabalho. Prefiro morar próximo a região da Paulista, onde eu trabalho, porém estou aberto a outros locais também.
 
 Eu sou programador Ruby e gosto muito de esportes radicais, como jogar Tony Hawk Pro Skater.
+
+[INFORMAÇÕES SOBRE O QUE PRECISO NO LOCAL] Preciso muito de uma internet de qualidade, pois eu faço vídeos para a internet.
+
+[RESTRIÇÕES] Não gosto de ter que levantar cedo. Aff.
 
 Segue meus perfis em redes sociais:
 
