@@ -9,6 +9,7 @@
 - [Como tudo funciona o projeto Code House](#como-tudo-funciona-o-projeto-code-house)
 - [Como conseguir um local para morar?](#como-conseguir-um-local-para-morar)
 - [Como compartilhar minha moradia?](#como-compartilhar-minha-moradia)
+- [Dicas de convivência](#dicas-de-convivência)
 - [Como surgiu esse projeto](#como-surgiu-esse-projeto)
 - [Como contribuir com esse projeto?](#como-contribuir-com-esse-projeto)
 
