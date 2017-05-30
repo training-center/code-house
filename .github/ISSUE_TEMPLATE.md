@@ -2,7 +2,7 @@ Esse template é para ser seguido em caso de busca por local ou cadastramento de
 
 ## Procuro um local para morar
 
-[CIDADE][ESTADO][QUANTO CONSEGUE PAGAR DE ALUGUÉL][TEMPO QUE VAI FICAR NO LOCAL]
+[CIDADE][ESTADO][TEMPO QUE VAI FICAR NO LOCAL]
 
 UMA BREVE DESCRIÇÃO SOBRE VOCÊ COM SEUS GOSTOS PESSOAIS E INFORMAÇÕES SOBRE O QUE VOCÊ FAZ (TRABALHA COM PROGRAMAÇÃO, DESIGN, ETC).
 
@@ -14,7 +14,7 @@ UMA BREVE DESCRIÇÃO SOBRE VOCÊ COM SEUS GOSTOS PESSOAIS E INFORMAÇÕES SOBRE
 
 Ex.: 
 
-SÃO PAULO - SP, VALOR: 1.500, INDETERMINADO
+SÃO PAULO - SP, INDETERMINADO
 
 Oi, eu sou o GitHubio e estou procurando apartamento em SP para morar perto do trabalho. Prefiro morar próximo a região da Paulista, onde eu trabalho, porém estou aberto a outros locais também.
 
